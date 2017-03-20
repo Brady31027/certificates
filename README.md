@@ -1,7 +1,7 @@
-# certificates
+# Certificates
 
-| certificate | date |
-|-------------|:----:|
+| Certificate | Date |
+|-------------|------|
 | BASH Programming Course: Master the Linux Command Line | Jan 30 2017 |
 | A Beginners Guide to Django | Feb 20 2017 |
 | Seleninum WebDriver + Python:Jumpstart in Automation Testing| Feb 11 2017 |
