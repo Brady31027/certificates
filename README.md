@@ -12,4 +12,5 @@
 | Git Going Fast:One Hour Git Crash | Jan 14 2017 |
 | The Complete Google Go Programming Course for Beginners | Jan 18 2017 |
 | Programming Foundations: HTML5 + CSS3 for Entrepreneurs 2015 | Feb 1 2017 |
+| 30 Days of Python | Apr 9 2017 |
 
