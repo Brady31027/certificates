@@ -14,4 +14,4 @@
 | Programming Foundations: HTML5 + CSS3 for Entrepreneurs 2015 | Feb 1 2017 |
 | 30 Days of Python | Apr 9 2017 |
 | The Numpy Stack in Python | Apr 10 2017 |
-
+| Java Basics: Learn to Code the Right Way | Apr 11 2017 |
