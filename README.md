@@ -16,3 +16,4 @@
 | The Numpy Stack in Python | Apr 10 2017 |
 | Java Basics: Learn to Code the Right Way | Apr 11 2017 |
 | Fun with Java: Build Complete Desktop & Android Mobile Apps | Apr 16 2017 |
+| The Complete Java Developer Course | Apr 30 2017|
