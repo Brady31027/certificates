@@ -18,3 +18,6 @@
 | Fun with Java: Build Complete Desktop & Android Mobile Apps | Apr 16 2017 |
 | The Complete Java Developer Course | Apr 30 2017|
 | Python Interview Questions: K1 - K10 | Sep 18 2017|
+| Autodesk Maya 2016 | Oct 21 2017|
+| Angular2 + Typescript Essential Training | Nov 17 2017|
+| Create a CRUD Application with Ionic3 and Firebase | Nov 18 2017|
